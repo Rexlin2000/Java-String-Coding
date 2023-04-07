@@ -1,3 +1,6 @@
+//convert Given String onto uppercase and lowercase without using String Method
+
+
 import java.util.Scanner;
 
 public class Convertstring {
