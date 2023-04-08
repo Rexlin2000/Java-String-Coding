@@ -2,9 +2,9 @@
 
 <h2> 7 Type of java string Programs will be upload in future</h2>
 
-1 display only digits in an alpha numeric String ------ Create stringalpha_numeric.java
+1 display only digits in an alpha numeric String ------ <B>Create stringalpha_numeric.java</B>
 
-2 convert Given String onto uppercase and lowercase without ------ Convertstring.java
+2 convert Given String onto uppercase and lowercase without ------ <B>Convertstring.java </B>
   using String Method
   
 3 print reverse a of a string word by word
