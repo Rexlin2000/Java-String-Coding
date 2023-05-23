@@ -7,7 +7,7 @@
 2 convert Given String onto uppercase and lowercase without ------ <B>Convertstring.java </B>
   using String Method
   
-3 print reverse a of a string word by word
+3 print reverse a of a string word by word ------ <b>reverseword.java</b>
 
 4 print repeated characters from a given String
 
